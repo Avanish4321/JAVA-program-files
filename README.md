@@ -12,7 +12,7 @@ program3 o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/
 
 program3b o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20013817.png
 
-program3c o/p link : 
+program3c o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20014303.png
 
 program4 o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20000314.png
 
