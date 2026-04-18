@@ -22,7 +22,7 @@ program5 o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/
 
 program5b o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20002900.png
 
-program5c o/p link : 
+program5c o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20016246.png
 
 program5d o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20023354.png
 
