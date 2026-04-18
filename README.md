@@ -5,3 +5,5 @@ program2 o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/
 program3 o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-18%20234811.png
 
 program4 o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20000314.png
+
+program5 o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20001630.png
