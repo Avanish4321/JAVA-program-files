@@ -1,6 +1,6 @@
 program1 o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-18%20223027.png
 
-program1b o/p link : 
+program1b o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20011938.png
 
 program1c o/p link : 
 
