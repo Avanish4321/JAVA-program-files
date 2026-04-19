@@ -31,3 +31,5 @@ program6 o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/
 program6b o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20005054.png
 
 program6c o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20024023.png
+
+program7 o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20134717.png
