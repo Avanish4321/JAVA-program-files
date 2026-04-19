@@ -40,4 +40,10 @@ program7c o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main
 
 program8 o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20144859.png
 
-program8a o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20150957.png
+program8b o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20150957.png
+
+program9 o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/Screenshot%202026-04-19%20151931.png
+
+program9b o/p link : 
+
+program9c o/p link : 
