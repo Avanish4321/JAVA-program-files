@@ -46,4 +46,4 @@ program9 o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/
 
 program9b o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/screenshot.png
 
-program9c o/p link : 
+program9c o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/program9c.png
