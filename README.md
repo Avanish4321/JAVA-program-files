@@ -50,7 +50,7 @@ program9c o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main
 
 program10 o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/program10a.png
 
-program10b o/p link : 
+program10b o/p link : https://github.com/Avanish4321/JAVA-program-files/blob/main/program10b.png
 
 
 
